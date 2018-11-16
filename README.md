@@ -1,0 +1,1 @@
+#Static Properties in JavaScript Classes with Inheritance
